@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaycodercoder
-- 👀 I’m interested in full stack web developer
-- 🌱 I’m currently learning html,css,js
+- 👀 I’m a full stack web developer
+- 🌱 skills html,css,js,php,laravel
 - 📫 How to reach me vijaykrishnan1496@gmail.com
 
 <!---
