@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaycodercoder
 - 👀 full stack web developer
-- 🌱 skills html,css,js,php,laravel,react js,SQL
+- 🌱 skills html,css,js,react js,php,laravel,SQL
 - 📫 How to reach me vijaykrishnan1496@gmail.com
 
 <!---
